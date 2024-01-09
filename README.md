@@ -19,7 +19,11 @@ Passionate Front-End Software Developer with an interest in bringing new ideas t
 
 #### My projects
 
-◾ [HOUSE BLOG]()
+◾ [HOUSE BLOG](https://github.com/uldisgabers/HOUSE-BLOG-APP) - This is an elegant house blog app with a homepage for viewers where they can browse different posts and add comments. Seperate admin dashboard to add, delete, and edit posts.
+
+◾ [MOVIE LIST](https://github.com/uldisgabers/Movie-list-app) - A simple web page about Christopher Nolan and his movies, where you can browse different pages, delete items, and add comments to posts.
+
+◾ [John's Landing page](https://github.com/uldisgabers/Johns-landing-page) - A beautiful landing page with responsive web design, suitable for all screen sizes.
 
 
 <!--
